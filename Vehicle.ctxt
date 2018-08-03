@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=
+comment1.target=Vehicle()
+comment2.params=time\ isEmergency
+comment2.target=Vehicle(int,\ boolean)
+comment3.params=
+comment3.target=int\ getTime()
+comment4.params=
+comment4.target=boolean\ getIsEmergency()
+numComments=5
